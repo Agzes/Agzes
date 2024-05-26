@@ -8,10 +8,12 @@
 
 # 💫About Me :
 
+* 👤 Bio: https://e-z.bio/agzes
 * 🧠 I'm learning Java
-* 🔭 I'm work on Pc-Stat-Bot v.3.1 
+* 🔭 I'm work on Pc-Stat-Bot v.4 
 * 🗣️ English | Russia
 * ✉️ Discord: Agzes
+
 
 ---
 
