@@ -9,6 +9,7 @@
 # 💫About Me :
 
 * 👤 Bio: https://e-z.bio/agzes
+* ✉️ Mail: agzes0@proton.me
 * 🧠 I'm learning Java
 * 🔭 I'm work on Pc-Stat-Bot v.4 
 * 🗣️ English | Russia
