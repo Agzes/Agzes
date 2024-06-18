@@ -11,7 +11,7 @@
 * 👤 Bio: https://e-z.bio/agzes
 * ✉️ Mail: agzes0@proton.me
 * 🧠 I'm learning C++
-* 🔭 I'm work on Pc-Stat-Bot v.4 
+* 🔭 I'm work on Pc-Stat-Bot v.4 and ??Launcher
 * 🗣️ English | Russia
 * ✉️ Discord: Agzes
 
