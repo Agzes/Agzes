@@ -23,14 +23,10 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-•  ⠀OS：Windows11 ( 64 bit )
-
-•  ⠀CPU: AMD Ryzen 5 3500 ( 6-Core ) 3,60 GHz
-
-•  ⠀MotherBoard: MSI B450 GAMING plus max
-
-•  ⠀GPU：GeForce GTX1070 ( 8 gb )
-
+•  ⠀OS：Windows11 ( 64 bit ) \
+•  ⠀CPU: AMD Ryzen 5 3500 ( 6-Core ) 3,60 GHz \
+•  ⠀MotherBoard: MSI B450 GAMING plus max \
+•  ⠀GPU：GeForce GTX1070 ( 8 gb ) \
 •  ⠀1.5 TB HDD / 500 GB SSD / 128 GB SSD
 
 
