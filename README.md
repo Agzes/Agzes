@@ -34,7 +34,7 @@
 
 [![OS](https://img.shields.io/badge/OS-Windows_11-blue)]() 
 [![CPU](https://img.shields.io/badge/CPU-Ryzen_7_5700X3D-red)]() 
-[![GPU](https://img.shields.io/badge/GPU-GeForce_GTX1070_(8GB)-76b900)]() 
+[![GPU](https://img.shields.io/badge/GPU-GTX1070_(8GB)-76b900)]() 
 [![MOTHERBOARD](https://img.shields.io/badge/MotherBoard-MSI_B450_GAMING_plus_max-red)]() 
 [![HDD](https://img.shields.io/badge/HDD-1.5_TB-2e3034)]() 
 [![SSD](https://img.shields.io/badge/SSD-500_GB-2e3034)]() 
