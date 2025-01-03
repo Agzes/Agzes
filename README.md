@@ -8,7 +8,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
+![Markdown](https://img.shields.io/badge/md-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
@@ -35,7 +35,7 @@
 [![OS](https://img.shields.io/badge/OS-Windows_11-blue)]() 
 [![CPU](https://img.shields.io/badge/CPU-Ryzen_7_5700X3D-red)]() 
 [![GPU](https://img.shields.io/badge/GPU-GTX1070_(8GB)-76b900)]() 
-[![MOTHERBOARD](https://img.shields.io/badge/MotherBoard-MSI_B450_GAMING_plus_max-red)]() 
+[![MOTHERBOARD](https://img.shields.io/badge/MotherBoard-MSI_B450_GAMING_plus_max-red)]() \
 [![HDD](https://img.shields.io/badge/HDD-1.5_TB-2e3034)]() 
 [![SSD](https://img.shields.io/badge/SSD-500_GB-2e3034)]() 
 [![SSD](https://img.shields.io/badge/SSD-128_GB-2e3034)]() 
