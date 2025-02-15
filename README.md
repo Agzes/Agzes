@@ -62,8 +62,6 @@
 
 
 
-
-
-[![](https://visitcount.itsvg.in/api?id=Agzes&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![visits](https://visit-counter.vercel.app/counter.png?page=github.com%2FAgzes&s=40&c=6a9bee&bg=00000000&no=2&ff=digi&tb=&ta=)
 
 
