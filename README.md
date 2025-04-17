@@ -51,9 +51,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Agzes&theme=tokyonight&hide_border=false)
 
-![](https://github-contributor-stats.vercel.app/api?username=Agzes&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agzes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=Agzes&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Agzes&theme=solarized_dark) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Agzes&theme=solarized_dark)　-->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Agzes&theme=solarized_dark) -->
