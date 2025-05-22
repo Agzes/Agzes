@@ -26,7 +26,7 @@
 <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) -->
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) -->
 
-<h5 align="center"></a>ᴄᴏɴᴛᴀᴄᴛs
+<h5 align="center"></a>ᴄᴜʀʀᴇɴᴛ ᴄᴏɴᴛᴀᴄᴛs
 
 [![Mail](https://img.shields.io/badge/Mail-%232e3034.svg?logo=protonmail&logoColor=white)](mailto:agzes0@proton.me) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/695827097024856124) 
