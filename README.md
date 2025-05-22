@@ -30,7 +30,6 @@
 
 [![Mail](https://img.shields.io/badge/Mail-%232e3034.svg?logo=protonmail&logoColor=white)](mailto:agzes0@proton.me) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/695827097024856124) 
-[![Telegram](https://img.shields.io/badge/Telegram-%2331a9df.svg?logo=telegram&logoColor=white)](https://t.me/Agzes0) 
 
 <h1 align="center"></a>  
 <h5 align="center"></a>ᴛᴇᴄʜ. ɪɴғᴏ
