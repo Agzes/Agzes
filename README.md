@@ -38,7 +38,7 @@
 [![CPU](https://img.shields.io/badge/CPU-Ryzen_7_5700X3D-red)]() 
 [![GPU](https://img.shields.io/badge/GPU-GTX1070_(8GB)-76b900)]() 
 [![MOTHERBOARD](https://img.shields.io/badge/MotherBoard-MSI_B450_GAMING_plus_max-red)]()
-[![RAM](https://img.shields.io/badge/RAM-16GB_(2x8GB)-gray)]()  \
+[![RAM](https://img.shields.io/badge/RAM-32GB_(4x8GB)-gray)]()  \
 [![HDD](https://img.shields.io/badge/HDD-1.5_TB-2e3034)]() 
 [![SSD](https://img.shields.io/badge/SSD-500_GB-2e3034)]() 
 [![SSD](https://img.shields.io/badge/SSD-128_GB-2e3034)]() 
