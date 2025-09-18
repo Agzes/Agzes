@@ -37,28 +37,16 @@
 [![OS](https://img.shields.io/badge/OS-Windows_11-blue)]() 
 [![CPU](https://img.shields.io/badge/CPU-Ryzen_7_5700X3D-red)]() 
 [![GPU](https://img.shields.io/badge/GPU-GTX1070_(8GB)-76b900)]() 
-[![MOTHERBOARD](https://img.shields.io/badge/MotherBoard-MSI_B450_GAMING_plus_max-red)]()
-[![RAM](https://img.shields.io/badge/RAM-32GB_(4x8GB)-gray)]()  \
-[![HDD](https://img.shields.io/badge/HDD-1.5_TB-2e3034)]() 
-[![SSD](https://img.shields.io/badge/SSD-500_GB-2e3034)]() 
-[![SSD](https://img.shields.io/badge/SSD-128_GB-2e3034)]() 
+[![RAM](https://img.shields.io/badge/RAM-32GB-2e3034)]()  
+<!--[![MOTHERBOARD](https://img.shields.io/badge/MotherBoard-MSI_B450_GAMING_plus_max-red)]()-->
+<!--[![HDD](https://img.shields.io/badge/HDD-1.5_TB-2e3034)]() -->
+<!--[![SSD](https://img.shields.io/badge/SSD-500_GB-2e3034)]() -->
+<!--[![SSD](https://img.shields.io/badge/SSD-128_GB-2e3034)]() -->
 
 <h1 align="center"></a>  
-<h5 align="center"></a>ɢɪᴛʜᴜʙ sᴛᴀᴛs
-
-![](https://github-readme-stats.vercel.app/api?username=Agzes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Agzes&theme=tokyonight&hide_border=false)
+<h5 align="center"></a>ɢɪᴛʜᴜʙ
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agzes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=Agzes&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Agzes&theme=solarized_dark) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Agzes&theme=solarized_dark)　-->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Agzes&theme=solarized_dark) --> 
-
-
-
 
 
 
