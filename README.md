@@ -17,14 +17,6 @@
 
 <h1 align="center"></a>  
 
-<!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)   -->
-<!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  -->
-<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  -->
-<!-- ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=flat&logo=glitch&logoColor=white) -->
-<!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) -->
-<!-- ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) -->
-<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) -->
-<!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) -->
 
 <h5 align="center"></a>ᴄᴜʀʀᴇɴᴛ ᴄᴏɴᴛᴀᴄᴛs
 
@@ -38,10 +30,7 @@
 [![CPU](https://img.shields.io/badge/CPU-Ryzen_7_5700X3D-red)]() 
 [![GPU](https://img.shields.io/badge/GPU-GTX1070_(8GB)-76b900)]() 
 [![RAM](https://img.shields.io/badge/RAM-32GB-2e3034)]()  
-<!--[![MOTHERBOARD](https://img.shields.io/badge/MotherBoard-MSI_B450_GAMING_plus_max-red)]()-->
-<!--[![HDD](https://img.shields.io/badge/HDD-1.5_TB-2e3034)]() -->
-<!--[![SSD](https://img.shields.io/badge/SSD-500_GB-2e3034)]() -->
-<!--[![SSD](https://img.shields.io/badge/SSD-128_GB-2e3034)]() -->
+
 
 <h1 align="center"></a>  
 <h5 align="center"></a>ɢɪᴛʜᴜʙ
