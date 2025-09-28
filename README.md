@@ -40,6 +40,6 @@
 
 
 
-![visits](https://visit-counter.vercel.app/counter.png?page=github.com%2FAgzes&s=40&c=6a9bee&bg=00000000&no=2&ff=digi&tb=&ta=)
+<!-- ![visits](https://visit-counter.vercel.app/counter.png?page=github.com%2FAgzes&s=40&c=6a9bee&bg=00000000&no=2&ff=digi&tb=&ta=) -->
 
 
