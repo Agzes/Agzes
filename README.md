@@ -26,7 +26,8 @@
 <h1 align="center"></a>  
 <h5 align="center"></a>ᴛᴇᴄʜ. ɪɴғᴏ
 
-[![OS](https://img.shields.io/badge/OS-Windows_11-blue)]() 
+[![OS (main)](https://img.shields.io/badge/OS_(main)-CachyOS-green)]() 
+[![OS (testing)](https://img.shields.io/badge/OS_(testing)-Windows_11-blue)]() 
 [![CPU](https://img.shields.io/badge/CPU-Ryzen_7_5700X3D-red)]() 
 [![GPU](https://img.shields.io/badge/GPU-GTX1070_(8GB)-76b900)]() 
 [![RAM](https://img.shields.io/badge/RAM-32GB-2e3034)]()  
