@@ -1,57 +1,8 @@
-<a href="https://agzes.netlify.app/" > <img src="https://raw.githubusercontent.com/Agzes/Agzes/main/header.png" alt="Hi" /> </a> <h1 align="center"></a>  
-
-
-<h5 align="center"></a>sᴋɪʟʟs
-  
-![AutpHotKeyV2](https://img.shields.io/badge/AutoHotKey_V2-%236eb267.svg?style=flat&logo=AutoHotKey&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Markdown](https://img.shields.io/badge/md-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-</h5>
-
-
-<h1 align="center"></a>
-
-
-<h5 align="center"></a>ᴄᴜʀʀᴇɴᴛ ᴄᴏɴᴛᴀᴄᴛs
-
-[![Mail](https://img.shields.io/badge/Mail-%232e3034.svg?logo=protonmail&logoColor=white)](mailto:agzes0@proton.me) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/695827097024856124) 
-
-</h5>
-
-
-<h1 align="center"></a>  
-
-
-<h5 align="center"></a>ᴛᴇᴄʜ. ɪɴғᴏ
-
-[![OS (main)](https://img.shields.io/badge/OS_(main)-CachyOS-green)]() 
-[![OS (testing)](https://img.shields.io/badge/OS_(testing)-Windows_11-blue)]() 
-[![CPU](https://img.shields.io/badge/CPU-Ryzen_7_5700X3D-red)]() 
-[![GPU](https://img.shields.io/badge/GPU-GTX1070_(8GB)-76b900)]() 
-[![RAM](https://img.shields.io/badge/RAM-32GB-2e3034)]()  
-
-</h5>
-
-
-<h1 align="center"></a>  
-
-
-<h5 align="center">ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴀɴᴅ ᴜᴘᴅᴀᴛɪɴɢ 
-<h3 align="center"> 
-<a href="https://github.com/Agzes/FluAutoClicker">FluAutoClicker</a> - powerful and universal AutoClicker for Windows
-</h3>
-<h5> 
-<h6 align="center">and some other projects... </h6> 
-
-  
-<!-- ![visits](https://visit-counter.vercel.app/counter.png?page=github.com%2FAgzes&s=40&c=6a9bee&bg=00000000&no=2&ff=digi&tb=&ta=) -->
-
-
+<a href="https://agzes.netlify.app"><img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//header.png" width="100%" align="top"></a>
+<a href="https://github.com/Agzes?tab=repositories"><img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//skills.png" width="100%" align="top"></a>
+<nobr>
+<a href="https://github.com/agzes"><img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//github.png" width="25.86%" align="top"></a><a href="#https://discord.com/users/695827097024856124"><img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//discord.png" width="23.99%" align="top"></a><a href="https://steamcommunity.com/id/agzes_/"><img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//steam.png" width="20.85%" align="top"></a><a href="mailto:agzes0@proton.me"><img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//mail.png" width="29.3%" align="top"></a>
+</nobr>
+<img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//tech.png" width="100%" align="top">
+<a href="https://github.com/Agzes/FluAutoClicker"><img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//work.png" width="100%" align="top"></a>
+<img src="https://raw.githubusercontent.com/Agzes/Agzes/main/assets//cat.png" width="100%" align="top">
